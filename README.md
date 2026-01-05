@@ -1,5 +1,7 @@
 # Course Materials RAG System
 
+> **Note:** This repository is a clone of [https-deeplearning-ai/starting-ragchatbot-codebase](https://github.com/https-deeplearning-ai/starting-ragchatbot-codebase) and is created for learning and experimentation purposes.
+
 A Retrieval-Augmented Generation (RAG) system designed to answer questions about course materials using semantic search and AI-powered responses.
 
 ## Overview
